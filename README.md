@@ -1,138 +1,141 @@
-# Adobe Masters 2023 - Real-Time CDP
+# Adobe Masters Series: Adobe Target
 
-![Adobe_MoP_CDP_Red-Pink-Green](https://user-images.githubusercontent.com/61875393/223062585-66a0b961-656c-4b18-b701-479aebb2afcb.png)
 
-Series Landing Page: https://cdp-masters.com/
+
+Masters Series Adobe Target Landing Page: [link]() 
 
 ## Goal
 
-Learn and practice how to deliver a customer pitch (including a live demo) that shows how Adobe Real-Time Customer Data Platform solves business challenges in various industries. 
+Learn how to demonstrate the value of Adobe Target on a real customer problem. 
+Meet with the Adobe solution experts and level up your technical selling skills.
 
-## Workshop Context
+## Workshop Framing
 
-To make a discovery with the client, you will meet with the client representatives (incl. CMO, Audience Programme Manager, Director of Privacy, Director of Operations). 
+Thanks for joining this event. You will soon learn more about the value and capabilities of Adobe Target, what problems it can solve, and how you can pitch it to your prospects. Later in the day, you will try to solve a real customer challenge using a ready-made Adobe Target sandbox. Finally, do a demo pitch yourself and get instant feedback from the Adobe experts.
 
-Based on the given scenario, you will need to do the following: 
+Here is the workshop situation setup:
 
-1. Write discovery questions given the customer's current challenges.
-2. Create/update the Point-of-View deck (pptx is in this repository) to create a presentation and pitch it to the customer representatives.
-3. Use the Adobe demo assets provided, customize them and show the solution in action to the customer.
+You've just completed the discovery and found a great solution with Adobe Target to solve your prospects challenge. You will be meeting with their representatives (incl. CMO, Marketing Manager, Optimization Expert, CRO) to present your pitch and show your solution in action.
+	
+Based on the given scenario, you will need to do the following:
+	
+* Explore the situation given the customer's current challenges (discovery).
+* Discuss various options with your team mates (solution).
+* Create a pitch and outline your solution to the customer representatives (presentation).
+* With the demo environment at your fingertips, make yourself comfortable using it. Customize it and show it in action (demo).
 
-The whole presentation shouldn't take longer than 10 minutes and will be followed by a short 5 mins Q&A.
+## Customer Pitch
 
-## Presentation Criteria
+The whole presentation (pitch) shouldn't take longer than 10 minutes and will be followed by a short 5 mins Q&A.
 
 When building your presentation try to consider these aspects of a great customer pitch:
 
-* Solution Design
-* Demo
-* Applicability (Fly towards Amplify https://adobeamplify.com/)
-* Innovation/Creativity
-* Collaboration and Completeness
+* Collaboration and completeness,
+* Potential value and viability of the idea,
+* Innovation/Creativity,
+* Demonstration - Focus on a customer journey and business value (not product capabilities).
 
 ## Breakouts
 
-Each team will be assigned a given scenarion from the list below that they will try to solve in the breakout part of this session.
+During the day, each of you will be assigned to a team. These teams will work on solving a specific scenario from a list we provide during the breakout session. But before we get into that, we'll show you how Adobe presents their ideas during a pitch. You can use this as a source of inspiration for your own assignment, and there will be plenty of time for you to ask questions to the experts from Adobe.
 
-### Scenario 0: SecurFinance (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
 
-Challenges:
-* On-boarding can be complex and form intensive for loans or investments
-* Communications are static and doesn’t adjust to changes in customer context
+### Scenario 0: SecurFinancial (FSI) -- WILL BE PRESENTED BY ADOBE SOLUTION CONSULTANT
+
+Challenge:
+
+* For SecurFinance creating personalized experiences for every visitor on the new homepage is a challenge, as it must be achieved without overwhelming users with excessive information and choices.
+* In addition, effectively governing the release process for new features and updates in the financial services industry presents a significant challenge, ensuring that changes are implemented smoothly and securely without disrupting critical operations.
 
 ### Scenario A: Luma (Retail)
 
-Challenges:
-* Unable to stitch known and anonymous data across channels & devices to create single view of customer in real-time
-* Unable to see a single customer view across channels, LOBs and devices
+Challenge:
 
-Environments:
-- https://dsn.adobe.com/web/cdp-mop-a (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
-- https://dsn.adobe.com/cx/cdp-mop-a-cx (call center)
-- https://docs.adobedemo.com/projects/public-projects/luma/web
-
-### Scenario B: SecurFinance (FSI)
-
-Challenges:
-* Reaching out to customers to activate their card, fund their card, and set up direct deposits
-* Cross-channel view of their customers that effectively combines digital and traditional data channels
-
-Environments:
-- https://dsn.adobe.com/web/cdp-mop-b (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
-- https://docs.adobedemo.com/projects/public-projects/securfinancial
-
-### Scenario C: Carvelo (Automotive)
-
-Challenges:
-* Experiences only personalized to a subset of segments & channels (e.g. online but not instore) and lack insights that scale across audiences
-* Inability to leverage key data sources (e.g. Call Centre) for proactive customer engagement
+* Luma aims to implement experimentation, personalization, feature-flagging in their mobile apps. They want to use a consistent user interface for both web and mobile, seamlessly integrated with Adobe Analytics for measurement and analysis.
+* Ensuring an outstanding Customer Experience is paramount to Luma's e-commerce business. Personalization plays a crucial role in improving essential performance metrics during the checkout process, including conversion rates, average order value, cross/up sell, and more.
 
 
 Environments:
 
-- https://dsn.adobe.com/web/cdp-mop-c (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-c-mobile (mobile)
-- https://docs.adobedemo.com/projects/public-projects/carvelo/web 
+- [link]() (web)
+- open DX Demo app on your mobile device, Enter this Project ID: projectID (mobile)
+- Hint: [Sales Play: Maturity Personalization in Web & App](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_maturity_personalization_in_web_and_app_application_sales_play_field_positioning_doc.pdf)
+
+### Scenario B: SecurFinancial (FSI)
+
+Challenge:
+
+* SecurFinancial is in search of a comprehensive testing and personalization engine that can rapidly assess and provide, in real-time, the most pertinent user experience for a visitor or customer during every inbound interaction within web forms and mobile applications.
+* The existing product has limited integration with Analytics and CDP and poses obstacles for effective action and reporting in A/B testing.
+
+
+Environments:
+
+- [link]()  (web)
+- open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
+- Hint: [Sales Play: Precision Data-Driven Personalization](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_precision_data_driven_personalization_application_sales_play_field_positioning_doc.pdf)
+
+### Scenario C: Carvelo (Auto)
+
+Challenge:
+
+* Within the automotive industry, amid the global pandemic and the surge in digital adoption, expectations for personalization and the seamless discovery of information on a homepage have skyrocketed.
+* Carvelo are recognizing the significance of building strong brand relationships through tailored, concierge-like experiences, leveraging insights from past interactions and the current digital context of visitors.  
+
+Environments:
+
+- [link]()  (web)
+- open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
+- Hint: [Sales Play: B2B Personalization](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_b2b_personalization_application_sales_play_field_positioning_doc.pdf) 
 
 ### Scenario D: City Signal (Telco)
 
-Challenges:
+Challenge:
 
-* Call center representatives have limited visibility to inbound caller's previous interactions
-* Offers and recommendations are often scripted, not considering the customer context
+* The digital marketing manager at City Signal's website is grappling with persistently high bounce rates on their product pages. They are actively seeking solutions to guide visitors towards discovering relevant items that may otherwise go unnoticed.
+* City Signal's is also facing the challenge of increasing competition in their industry, which makes it harder to capture and retain visitor attention. They need strategies to stand out and keep visitors engaged.
 
 Environments:
 
-- https://dsn.adobe.com/web/cdp-mop-d (web)
-- open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-d-mobile (mobile)
-- https://dsn.adobe.com/cx/cdp-mop-d-cx (call center) 
-- https://docs.adobedemo.com/projects/public-projects/citi-signal/web 
+- [link]()  (web)
+- open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
+- Hint: [Sales Play: Beyond A/B testing](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_27/Adobe_Target_Automation_White_Paper.pdf) 
 
-## Experience Platform
+## Adobe Experience Platform
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: CDP Practice Masters A/B/C/D (VA7)
-
-## Mobile App
-* Read first: https://docs.adobedemo.com/dx-demo-mobile-app/overview/first-installation-+-first-launch
-* App links: https://builder.adobedemo.com/install
+* Sandbox Name: EMEA-AT-A, B, C, D
 
 
 ## Links & Assets
-* https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp.html
-* https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/accreditation/technical_sales_program.html 
-* https://docs.adobesandbox.com/comprehensive-technical-tutorial-archive/
+
+* Powerpoint Deck: [link]() 
+* 
 
 ## Tips and Tricks
-* For every new demo run always use new anonymous (incognito) window or reset the mobile app
-* When creating new profile append the email address and phone number with a hash (e.g. date and demo run, 20220707-01)
-* If you can't access AEP  - make sure you're using the Business ID (not Personal Adobe ID)
-* Use this guide for quick ingestion of CRM-like data: https://docs.adobesandbox.com/comprehensive-technical-tutorial-archive/module2/ex4
+* For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
+* 
+
+
 
 ## Agenda
 
-* Intro to the Workshop and Next Steps
-* Demo Customer Pitch (by Adobe Solution Consulting)
-* Coffee Break
-* Environment Handover and Team Assignments
-* Breakouts (Team work)
-* Lunch Break
-* Breakouts (Team work)
-* Team Presentations
-* Feedback and End of Session
+- Intro to the Workshop
+- Inspiration Pitch by Adobe (+ Q&A with a guest speaker)
+- Coffee Break
+- Demo Environments Walkthrough
+- Lunch
+- Breakouts (Build your Adobe Target Pitch)
+- Team Presentations
+- Feedback and Next Steps
 
-## Adobe Contacts
+## Adobe Team Contacts
+
 - Dominik Gach, dgach@adobe.com
 - Radim Sevcik, sevcik@adobe.com
 - Nishant Pithia, pithia@adobe.com
 
 ## Feedback Form
 
-We will be more than happy to hear about your experience today. Any suggestions how to imporve this series are highly valuable to us.
-
-Link: https://forms.office.com/r/Can7gHyrz1
-
-Thank you for choosing Adobe
+Your feedback on your experience today is immensely important to us. We sincerely value your input, and any suggestions you have to enhance this series are not only highly appreciated but also instrumental in helping us continuously improve. Thank you for being a part of our journey!
 
