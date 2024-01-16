@@ -3,7 +3,7 @@
 
 
 
-Masters Series Adobe Target Landing Page: [link]() 
+Masters Series Adobe Target Landing Page: [link](https://new.express.adobe.com/webpage/kPV8jxehnopDU)
 
 ## Goal
 
