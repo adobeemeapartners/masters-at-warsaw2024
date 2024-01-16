@@ -1,4 +1,5 @@
 # Adobe Masters Series: Adobe Target
+![Adobe_Masters_AT_Red-Purple-Teal](https://github.com/adobeemeapartners/masters-at-warsaw2024/assets/61875393/203bcae8-1ee5-437a-89d7-af46a09e9ca8)
 
 
 
