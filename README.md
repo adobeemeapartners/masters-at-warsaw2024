@@ -58,7 +58,7 @@ Challenge:
 
 Environments:
 
-- [link]() (web)
+- [link](https://dsn.adobe.com/web/cdp-mop-a/) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: projectID (mobile)
 - Hint: [Sales Play: Maturity Personalization in Web & App](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_maturity_personalization_in_web_and_app_application_sales_play_field_positioning_doc.pdf)
 
@@ -72,7 +72,7 @@ Challenge:
 
 Environments:
 
-- [link]()  (web)
+- [link](https://dsn.adobe.com/web/cdp-mop-b/)  (web)
 - open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
 - Hint: [Sales Play: Precision Data-Driven Personalization](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_precision_data_driven_personalization_application_sales_play_field_positioning_doc.pdf)
 
@@ -85,7 +85,7 @@ Challenge:
 
 Environments:
 
-- [link]()  (web)
+- [link](https://dsn.adobe.com/web/cdp-mop-c/)  (web)
 - open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
 - Hint: [Sales Play: B2B Personalization](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_b2b_personalization_application_sales_play_field_positioning_doc.pdf) 
 
@@ -98,14 +98,14 @@ Challenge:
 
 Environments:
 
-- [link]()  (web)
+- [link](https://dsn.adobe.com/web/cdp-mop-d/)  (web)
 - open DX Demo app on your mobile device, Enter this Project ID: xxx (mobile)
 - Hint: [Sales Play: Beyond A/B testing](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_27/Adobe_Target_Automation_White_Paper.pdf) 
 
-## Adobe Experience Platform
+## Adobe Experience Cloud
 
 * ISM Org Name: AEP Partner Shared Training Sandbox
-* Sandbox Name: EMEA-AT-A, B, C, D
+* AT Workspace Name: Target - CDP Practice Masters A-D
 
 
 ## Links & Assets
