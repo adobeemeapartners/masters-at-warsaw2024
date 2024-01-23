@@ -111,7 +111,7 @@ Environments:
 ## Links & Assets
 
 * Powerpoint Deck: [link]() 
-* 
+* Adobe Blueprints: e.g. [WebSDK Deployment](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/architecture-overview/deployment/websdk.html?lang=en)
 
 ## Tips and Tricks
 * For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
