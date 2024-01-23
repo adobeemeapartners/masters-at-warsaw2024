@@ -52,7 +52,7 @@ Challenge:
 
 Challenge:
 
-* Luma aims to implement experimentation, personalization, feature-flagging in their mobile apps. They want to use a consistent user interface for both web and mobile, seamlessly integrated with Adobe Analytics for measurement and analysis.
+* Luma aims to implement experimentation, personalization, feature-flagging in their mobile apps. They want to use a consistent user interface for both web and mobile, seamlessly integrated with Adobe Experience Platform for measurement and analysis.
 * Ensuring an outstanding Customer Experience is paramount to Luma's e-commerce business. Personalization plays a crucial role in improving essential performance metrics during the checkout process, including conversion rates, average order value, cross/up sell, and more.
 
 
@@ -67,7 +67,7 @@ Environments:
 Challenge:
 
 * SecurFinancial is in search of a comprehensive testing and personalization engine that can rapidly assess and provide, in real-time, the most pertinent user experience for a visitor or customer during every inbound interaction within web forms and mobile applications.
-* The existing product has limited integration with Analytics and CDP and poses obstacles for effective action and reporting in A/B testing.
+* The existing product has limited integration with analytics tooling and CDP and poses obstacles for effective action and reporting in A/B testing.
 
 
 Environments:
