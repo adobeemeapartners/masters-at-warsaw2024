@@ -112,10 +112,13 @@ Environments:
 
 * Powerpoint Deck: [link]() 
 * Adobe Blueprints: e.g. [WebSDK Deployment](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/architecture-overview/deployment/websdk.html?lang=en)
+* Mobile SDK implementation: https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en
+* Web SDK implementation: https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html
 
 ## Tips and Tricks
 * For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
 * Make segments early as possible (beware of delay when creating new segments).
+* AEP Personalization Guardrails: https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html?lang=en#edge-destinations-activation
 
 
 
