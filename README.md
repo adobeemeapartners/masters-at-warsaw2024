@@ -115,7 +115,7 @@ Environments:
 
 ## Tips and Tricks
 * For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
-* 
+* Make segments early as possible (beware of delay when creating new segments).
 
 
 
