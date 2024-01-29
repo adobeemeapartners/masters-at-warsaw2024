@@ -124,14 +124,14 @@ Environments:
 
 ## Agenda
 
-- Intro to the Workshop
-- Inspiration Pitch by Adobe (+ Q&A with a guest speaker)
-- Coffee Break
-- Demo Environments Walkthrough
-- Lunch
-- Breakouts (Build your Adobe Target Pitch)
-- Team Presentations
-- Feedback and Next Steps
+- Intro to the Workshop (9.15am)
+- Inspiration Pitch by Adobe (+ Q&A with a guest speaker) (9.30)
+- Coffee Break (10.00)
+- Demo Environments Walkthrough (10.30)
+- Lunch (12)
+- Breakouts (Build your Adobe Target Pitch) (1.15)
+- Team Presentations (3.00)
+- Feedback and Next Steps (4.15, closing 5pm)
 
 ## Adobe Team Contacts
 
