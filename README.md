@@ -61,6 +61,7 @@ Environments:
 - [link](https://dsn.adobe.com/web/cdp-mop-a/) (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-a-mobile (mobile)
 - Hint: [Sales Play: Maturity Personalization in Web & App](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_maturity_personalization_in_web_and_app_application_sales_play_field_positioning_doc.pdf)
+- Hint: [Sales Play: Maturing Personalization in Web and App](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_35/sales_play_targeting_guide_at_maturing_personalization_in_web_and_app.pptx)
 
 ### Scenario B: SecurFinancial (FSI)
 
@@ -75,6 +76,7 @@ Environments:
 - [link](https://dsn.adobe.com/web/cdp-mop-b/)  (web)
 - open DX Demo app on your mobile device, Enter this Project ID: cdp-mop-b-mobile (mobile)
 - Hint: [Sales Play: Precision Data-Driven Personalization](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_16/adobe_target_precision_data_driven_personalization_application_sales_play_field_positioning_doc.pdf)
+- Hint: [Sales Play: Precision Data-Driven Personalization 2024](https://solutionpartners.adobe.com/content/dam/solution/en/spp_assets/readiness/created/readiness_35/sales_play_targeting_guide_at_data-driven_personalization.pptx)
 
 ### Scenario C: Carvelo (Auto)
 
