@@ -116,6 +116,7 @@ Environments:
 * Adobe Blueprints: e.g. [WebSDK Deployment](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/architecture-overview/deployment/websdk.html?lang=en)
 * Mobile SDK implementation: https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en
 * Web SDK implementation: https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html
+* Mobile App: https://dsn.adobe.com/install
 
 ## Tips and Tricks
 * For every new DSN demo run always use Anonymous (incognito) window or reset the mobile app profile.
